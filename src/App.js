@@ -12,6 +12,7 @@ import Login from "./components/Login";
 import Signup from "./components/Signup";
 import UserDetails from "./components/UserDetails";
 import ContactUs from "./components/ContactUs";
+import Welcome from "./components/Welcome";
 
 
 
@@ -37,6 +38,7 @@ function App() {
             <div className="container">
               <Routes>
                 <Route element={<Home />} path="/" />
+                <Route element={<Welcome />} path="/iNoteBook" />
                 <Route exact element={<About />} path="/about" />
                 <Route exact element={<Login />} path="/login" />
                 <Route exact element={<Signup />} path="/signup" />
