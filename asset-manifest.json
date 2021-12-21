@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.4377264c.chunk.css",
-    "main.js": "/static/js/main.30aacd8f.chunk.js",
-    "main.js.map": "/static/js/main.30aacd8f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.13c24124.js",
-    "runtime-main.js.map": "/static/js/runtime-main.13c24124.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.b24d1103.chunk.js": "/static/js/2.b24d1103.chunk.js",
-    "static/js/2.b24d1103.chunk.js.map": "/static/js/2.b24d1103.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.4377264c.chunk.css.map": "/static/css/main.4377264c.chunk.css.map",
-    "static/js/2.b24d1103.chunk.js.LICENSE.txt": "/static/js/2.b24d1103.chunk.js.LICENSE.txt",
-    "static/media/Arham.4f7e8674.jpg": "/static/media/Arham.4f7e8674.jpg",
-    "static/media/back.ac12a8bc.jpg": "/static/media/back.ac12a8bc.jpg"
+    "main.css": "/iNoteBook/static/css/main.1b2389eb.chunk.css",
+    "main.js": "/iNoteBook/static/js/main.607eedc9.chunk.js",
+    "main.js.map": "/iNoteBook/static/js/main.607eedc9.chunk.js.map",
+    "runtime-main.js": "/iNoteBook/static/js/runtime-main.09413fc3.js",
+    "runtime-main.js.map": "/iNoteBook/static/js/runtime-main.09413fc3.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/iNoteBook/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.70e57fef.chunk.js": "/iNoteBook/static/js/2.70e57fef.chunk.js",
+    "static/js/2.70e57fef.chunk.js.map": "/iNoteBook/static/js/2.70e57fef.chunk.js.map",
+    "index.html": "/iNoteBook/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/iNoteBook/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.1b2389eb.chunk.css.map": "/iNoteBook/static/css/main.1b2389eb.chunk.css.map",
+    "static/js/2.70e57fef.chunk.js.LICENSE.txt": "/iNoteBook/static/js/2.70e57fef.chunk.js.LICENSE.txt",
+    "static/media/Arham.4f7e8674.jpg": "/iNoteBook/static/media/Arham.4f7e8674.jpg",
+    "static/media/back.ac12a8bc.jpg": "/iNoteBook/static/media/back.ac12a8bc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.13c24124.js",
+    "static/js/runtime-main.09413fc3.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.b24d1103.chunk.js",
-    "static/css/main.4377264c.chunk.css",
-    "static/js/main.30aacd8f.chunk.js"
+    "static/js/2.70e57fef.chunk.js",
+    "static/css/main.1b2389eb.chunk.css",
+    "static/js/main.607eedc9.chunk.js"
   ]
 }
