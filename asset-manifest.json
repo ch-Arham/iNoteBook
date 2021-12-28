@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iNoteBook/static/css/main.aa4136d6.chunk.css",
-    "main.js": "/iNoteBook/static/js/main.6f60c565.chunk.js",
-    "main.js.map": "/iNoteBook/static/js/main.6f60c565.chunk.js.map",
+    "main.js": "/iNoteBook/static/js/main.b1b165ed.chunk.js",
+    "main.js.map": "/iNoteBook/static/js/main.b1b165ed.chunk.js.map",
     "runtime-main.js": "/iNoteBook/static/js/runtime-main.09413fc3.js",
     "runtime-main.js.map": "/iNoteBook/static/js/runtime-main.09413fc3.js.map",
     "static/css/2.0a9ec390.chunk.css": "/iNoteBook/static/css/2.0a9ec390.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.76b560f4.chunk.js",
     "static/css/main.aa4136d6.chunk.css",
-    "static/js/main.6f60c565.chunk.js"
+    "static/js/main.b1b165ed.chunk.js"
   ]
 }
