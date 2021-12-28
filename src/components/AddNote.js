@@ -23,7 +23,7 @@ const AddNote = () => {
     <>
       <div className="container light-shadow">
         <h2 className="text-center">Add A Note</h2>
-        <Form className="my-3" style={{paddingLeft: '1.25em', paddingRight: '1.25em'}} onSubmit={handleSubmit}>
+        <Form className="my-3" style={{paddingLeft: '1.15em', paddingRight: '1.15em'}} onSubmit={handleSubmit}>
           <Form.Group className="mb-3" controlId="formBasicEmail">
             <Form.Label><span className="font-weight-bold font-size-increase">Title</span></Form.Label>
             <Form.Control

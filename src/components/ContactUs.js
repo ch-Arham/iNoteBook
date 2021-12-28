@@ -45,7 +45,7 @@ const ContactUs = () => {
     <>
       <div className="container light-shadow">
         <h2 className="text-center">Contact Me - Gmail</h2>
-        <Form ref={form} className="my-3" style={{paddingLeft: '1.25em', paddingRight: '1.25em'}} onSubmit={handleSubmit}>
+        <Form ref={form} className="my-3" style={{paddingLeft: '1.15em', paddingRight: '1.15em'}} onSubmit={handleSubmit}>
           <Form.Group className="mb-3" controlId="formBasicPassword">
             <Form.Label>
               <span className="font-weight-bold font-size-increase">Name</span>
