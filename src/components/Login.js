@@ -39,7 +39,7 @@ const Login = () => {
   return (
     <div className="container light-shadow my-3">
       <h2 className="text-center">Login - To Use iNoteBook</h2>
-      <Form className="my-3" onSubmit={handleSubmit}>
+      <Form className="my-3" onSubmit={handleSubmit} style={{paddingLeft: '1.25em', paddingRight: '1.25em'}}>
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label><span className="font-weight-bold font-size-increase">Email</span></Form.Label>
           <Form.Control

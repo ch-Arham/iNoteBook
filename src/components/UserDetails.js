@@ -25,7 +25,7 @@ const UserDetails = () => {
     <>
       <div className="container light-shadow">
         <h2 className="text-center">User Details</h2>
-        <Form className="my-3">
+        <Form className="my-3" style={{paddingLeft: '1.25em', paddingRight: '1.25em'}}>
           <Form.Group className="mb-3" controlId="formBasicEmail">
             <Form.Label>
               <span className="font-weight-bold font-size-increase">Name</span>

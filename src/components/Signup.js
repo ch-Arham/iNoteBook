@@ -40,7 +40,7 @@ const Signup = () => {
     return (
         <div className="container light-shadow mt-3">
       <h2 className="text-center">Signup - Create An Account</h2>
-      <Form className="my-3" onSubmit={handleSubmit}>
+      <Form className="my-3" onSubmit={handleSubmit} style={{paddingLeft: '1.25em', paddingRight: '1.25em'}}>
       <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label><span className="font-weight-bold font-size-increase">Name</span></Form.Label>
           <Form.Control
