@@ -4,7 +4,9 @@
   "description": "iNoteBook - Your notebook on the cloud",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "node ./index.js"
   },
   "license": "MIT",
   "dependencies": {
