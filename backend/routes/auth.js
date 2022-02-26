@@ -51,7 +51,7 @@ router.post(
       };
 
       //create and sign token
-      const authToken = jwt.sign(data, JWT_SECRET); //returns the JWT string (3 parts.2nd data.3rdsig)
+      const authToken = jwt.sign(data, JWT_SECRET); //returns the JWT string (3 parts.2nd data.3rd signature)
 
       //res.json(user) do not send the user back;
       //send the token back

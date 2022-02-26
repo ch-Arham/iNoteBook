@@ -1,11 +1,14 @@
 const connectToMongo = require('./db');
 const express = require('express');
+
 const app = express();
 const notes = require('./routes/notes');
 const auth = require('./routes/auth');
+
 const cors = require('cors')
 
 connectToMongo();
+
 //parse json to body
 app.use(express.json());
  
